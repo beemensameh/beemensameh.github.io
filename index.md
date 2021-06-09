@@ -18,7 +18,7 @@ _xWARE Integrated Solutions - Full-time_
 
 ---
 
-<img src="https://logosbynick.com/wp-content/uploads/2018/08/freelancer.png" height = '56px'/>
+<img src="./images/freelancer.png" height = '56px'/>
 
 ### Backend Developer
 _Freelancing_
@@ -37,11 +37,10 @@ _Bachelor's degree_
 <br>Oct 2018 - Mar 2019
 
 ---
-<img src="https://www.logolynx.com/images/logolynx/9a/9ae0dcd699b0871d4983fa603191e6de.jpeg" height = '85px'/>
+<img src="./images/asyut_university.jpeg" height = '85px'/>
 
 ### Computer and Information in Asyut, Egypt
 _Bachelor's degree_
-<br>.NET Full-Stack Development
 <br>Information System
 <br>Sep 2014 - Jun 2018
 
