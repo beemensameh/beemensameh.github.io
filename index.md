@@ -27,7 +27,7 @@ _Freelancing_
 <br>
 <br>
 
-### Education
+## Education
 
 <img src="./images/ITI.png" height='56px'/>
 
