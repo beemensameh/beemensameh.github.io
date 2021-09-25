@@ -3,7 +3,7 @@
 ## Experience
 <img src="./images/rain.png" height='56px'/>
 
-### Back End Engineer
+### Backend Engineer
 _Rain - Contract_
 <br>Feb 2020 - Present
 <br>Outsource
