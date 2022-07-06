@@ -1,4 +1,4 @@
-title: Beemen Sameh Resume # your name (or website title) here
+title: Beemen Sameh # your name (or website title) here
 logo: "https://avatars.githubusercontent.com/u/41084077" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A passionate Back-End developer with a demonstrated history of work in computer software. Work with Python, PHP, Database Development (SQL Server, MySQL, Postgres). And I developed many Laravel, Django, Golang projects.
@@ -8,3 +8,37 @@ profile:
   linkedin: https://www.linkedin.com/in/beemensameh/
 
 theme: jekyll-theme-minimal
+
+jobs:
+  - title: Mid-Level Software Engineer
+    name: xWARE Integrated Solutions
+    type: Full-time
+    from: May 2019
+    to: Present
+    logo: /images/xWARE.png
+  - title: Backend Engineer
+    name: Rain
+    type: Contract
+    from: Feb 2020
+    to: Jun 2022
+    logo: /images/rain.png
+  - title: Backend Developer
+    name: Freelancing
+    type: Contract
+    from: Feb 2020
+    to: Jun 2022
+    logo: /images/freelancer.png
+
+educations:
+  - title: Information Technology Institute (ITI)
+    degree: Diploma
+    study: .NET Full-stack (ASP, Angular)
+    from: Oct 2018
+    to: Mar 2019
+    logo: /images/ITI.png
+  - title: Computer and Information in Asyut, Egypt
+    degree: Bachelor's degree
+    study: Information System (IS)
+    from: Sep 2014
+    to: Jun 2018
+    logo: /images/asyut_university.jpeg
