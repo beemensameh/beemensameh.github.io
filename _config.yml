@@ -10,6 +10,12 @@ profile:
 theme: jekyll-theme-minimal
 
 jobs:
+  - title: Software Engineer, Global ITSoftware
+    name: PayTabs
+    type: Full-time
+    from: Jul 2022
+    to: Present
+    logo: /images/paytabs.jpeg
   - title: Mid-Level Software Engineer
     name: xWARE Integrated Solutions
     type: Full-time
