@@ -5,7 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 profile:
   github: https://github.com/beemensameh
-  gitlab: https://gitlab.com/beemensameh
   linkedin: https://www.linkedin.com/in/beemensameh/
 
 theme: jekyll-theme-minimal
